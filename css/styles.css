@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: #fff;
 }
+ul {
+  list-style-type: none;
+}
+
 .header {
 }
 .header-navigation {
@@ -15,6 +19,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 .header-logo-blue {
   color: #4d5ae5;
@@ -31,6 +36,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .header-menu-item-link:hover,
 .header-menu-item-link:focus {
@@ -48,6 +54,7 @@ body {
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 .header-address-list-link:hover,
 .header-address-list-link:focus {
@@ -183,6 +190,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 .footer-logo-blue {
   color: #4d5ae5;
