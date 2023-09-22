@@ -32,8 +32,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-menu-item-link:hover, .header-menu-item-link:focus {
-  color: #404BBF;
+.header-menu-item-link:hover,
+.header-menu-item-link:focus {
+  color: #404bbf;
 }
 
 .header-address {
