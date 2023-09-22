@@ -1,3 +1,101 @@
 body {
-    font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.header {
+}
+.header-navigation {
+}
+
+.header-logo {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.header-logo-blue {
+  color: #4d5ae5;
+}
+
+.header-menu {
+}
+.header-menu-item {
+}
+
+.header-menu-item-link {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+}
+
+.header-address {
+}
+.header-address-list-item {
+}
+
+.header-address-list-link {
+  color: var(--SLATE, #434455);
+  font-size: 16px;
+  font-style: normal;
+  /*font-weight: 400;*/
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.02em;
+}
+
+.order {
+}
+.order-title {
+}
+.order-btn {
+}
+.strategy {
+}
+.strategy-title {
+}
+.strategy-list {
+}
+.strategy-list-item {
+}
+.strategy-list-item-title {
+}
+.strategy-list-item-text {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-list-item {
+}
+.team-list-item-image {
+}
+.team-list-item-title {
+}
+.team-list-item-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+.portfolio-list-item-image {
+}
+.portfolio-list-item-title {
+}
+.portfolio-list-item-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
 }
