@@ -22,7 +22,7 @@ ul {
   text-transform: uppercase;
   text-decoration: none;
 }
-.header-logo-white {
+.header-logo-black {
   color: #2e2f42;
 }
 
@@ -43,7 +43,6 @@ ul {
 .header-menu-item-link:focus {
   color: #404bbf;
 }
-
 .header-address {
   font-style: normal;
 }
@@ -126,9 +125,11 @@ ul {
 
 .team-list {
 }
+
 .team-list-item {
   background-color: #ffffff;
 }
+
 .team-list-item-image {
 }
 
